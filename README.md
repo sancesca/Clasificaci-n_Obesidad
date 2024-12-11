@@ -16,9 +16,6 @@ Ejecución del modelo: Sigue las instrucciones detalladas en el código para car
 Ingreso de datos: Responde a las 16 preguntas del cuestionario de acuerdo a tus hábitos y condición física.
 Obtención de resultados: El modelo te proporcionará una estimación de tu nivel de obesidad y recomendaciones generales.
 
-¿Dónde puedo obtener ayuda?
-Escribe al correo sancesca@gmail.com al desarrollador Sandra Céspedes 
-
 Consideraciones adicionales:
 
 Base de datos: Puedes consultar la base de datos usada para entrenamiento en https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition 
